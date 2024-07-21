@@ -1,0 +1,2 @@
+# CareLog
+COP Finals Project
