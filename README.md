@@ -1,2 +1,2 @@
-# CareLog
+# MediSync
 COP Finals Project
