@@ -27,6 +27,7 @@ public class login extends javax.swing.JFrame {
     public login() {
         initComponents();
     }
+    //test
 
     /**
      * This method is called from within the constructor to initialize the form.
