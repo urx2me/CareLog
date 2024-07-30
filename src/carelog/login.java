@@ -160,7 +160,7 @@ public class login extends javax.swing.JFrame {
         //Database connections
         String url = "jdbc:mysql://localhost:3306/medisync_cop_finals";
         String user = "root";
-        String pass = "Charles-061803";
+        String pass = "";
         
         try (Connection connection = DriverManager.getConnection(url, user, pass)) {
     String query = "SELECT * FROM tbl_users WHERE dusername = ? AND dpassword = ?";
